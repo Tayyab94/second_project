@@ -3,3 +3,6 @@ int age = 12;
 
 
 Console.WriteLine("asdas");
+
+
+Console.WriteLine("Registration code");
